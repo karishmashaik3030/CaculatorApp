@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karishmashaik3030/CaculatorApp.git/static/css/main.bb6ef10c.css",
+    "main.js": "/karishmashaik3030/CaculatorApp.git/static/js/main.6d0234f8.js",
+    "static/js/592.c5337f2d.chunk.js": "/karishmashaik3030/CaculatorApp.git/static/js/592.c5337f2d.chunk.js",
+    "index.html": "/karishmashaik3030/CaculatorApp.git/index.html",
+    "main.bb6ef10c.css.map": "/karishmashaik3030/CaculatorApp.git/static/css/main.bb6ef10c.css.map",
+    "main.6d0234f8.js.map": "/karishmashaik3030/CaculatorApp.git/static/js/main.6d0234f8.js.map",
+    "592.c5337f2d.chunk.js.map": "/karishmashaik3030/CaculatorApp.git/static/js/592.c5337f2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb6ef10c.css",
+    "static/js/main.6d0234f8.js"
+  ]
+}
